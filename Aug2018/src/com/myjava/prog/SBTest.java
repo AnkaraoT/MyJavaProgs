@@ -1,3 +1,4 @@
+package com.myjava.prog;
 public class SBTest {
 
 	public static void main(String[] args) {

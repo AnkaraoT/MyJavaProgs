@@ -1,3 +1,4 @@
+package com.myjava.prog;
 
 // A Java program for a Client
 import java.net.*;

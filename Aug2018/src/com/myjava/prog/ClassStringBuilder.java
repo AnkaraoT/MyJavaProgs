@@ -1,3 +1,4 @@
+package com.myjava.prog;
 import java.util.Arrays;
 
 public final class ClassStringBuilder {

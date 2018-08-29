@@ -1,3 +1,4 @@
+package com.myjava.prog;
 
 public class LoclaVari {
 

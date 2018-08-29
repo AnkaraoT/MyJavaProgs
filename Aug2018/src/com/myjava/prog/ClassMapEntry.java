@@ -1,3 +1,4 @@
+package com.myjava.prog;
 
 public class ClassMapEntry<K, V> {
 	private K key;
